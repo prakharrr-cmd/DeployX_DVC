@@ -8,16 +8,16 @@ def create_dataframe():
     data = {
         "id": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
         "review": [
-            "Great food and ambiance.",
-            "Terrible service. ",
-            "Amazing experience!",
-            "Food was cold.",
-            "Loved the desserts.",
-            "Not worth the money.",
-            "Excellent customer service.",
-            "The place was too crowded.",
-            "Best restaurant in town.",
-            "Average experience."
+            "Great food and ambiance. Version 2",
+            "Terrible service. Version 2",
+            "Amazing experience! Version 2",
+            "Food was cold. Version 2",
+            "Loved the desserts. Version 2",
+            "Not worth the money. Version 2",
+            "Excellent customer service. Version 2",
+            "The place was too crowded. Version 2",
+            "Best restaurant in town. Version 2",
+            "Average experience. Version 2python "
         ]
     }
 
